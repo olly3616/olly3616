@@ -5,3 +5,6 @@
 
 ### 🛠 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
+### project?
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olly3616&repo=baekjoon)](https://github.com/olly3616/github-readme-stats)
