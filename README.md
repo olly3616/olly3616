@@ -1,11 +1,11 @@
 ## Hello!
-My name is olly.
+My name is Olly.
 
 
 
 ## Beginner
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=olly&card_width=440)
-![olly's GitHub stats](https://github-readme-stats.vercel.app/api?username=olly3616&count_private=true&show_icons=true&theme=transparent&hide=contribs,prs&card_width=440)
+![Olly's GitHub stats](https://github-readme-stats.vercel.app/api?username=olly3616&count_private=true&show_icons=true&theme=transparent&hide=contribs,prs&card_width=440)
 
 
 ## 🛠 Languages & Tools
